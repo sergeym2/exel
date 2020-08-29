@@ -34,13 +34,17 @@
     "eslint-loader": "^4.0.2",
     "html-webpack-plugin": "^4.3.0",
     "mini-css-extract-plugin": "^0.10.0",
+    "node-sass": "^4.14.1",
     "sass": "^1.26.10",
     "sass-loader": "^9.0.3",
+    "scss": "^0.2.4",
+    "scss-loader": "0.0.1",
     "webpack": "^4.44.1",
     "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.11.0"
   },
   "dependencies": {
-    "@babel/polyfill": "^7.10.4"
+    "@babel/polyfill": "^7.10.4",
+    "normalize.css": "^8.0.1"
   }
 }
